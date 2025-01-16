@@ -1,0 +1,6 @@
+Request Type:
+Post:https/localhost:3000/book
+Get:localhost:3000/book
+Get Method is using particularid localhost:3000/book/677afd9240f8bdf7e1eaf5e6
+Delete:localhost:3000/book/677afd9240f8bdf7e1eaf5e6
+Patch:localhost:3000/book/677afcbf1dca767e70eed99d
